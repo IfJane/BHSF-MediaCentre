@@ -1,0 +1,1403 @@
+{
+  "sessions": [
+    {
+      "id": "s45",
+      "name": "第45届"
+    }
+  ],
+  "currentSession": "s45",
+  "sessionData": {
+    "s45": {
+      "director": "任正斌 田畅",
+      "positions": [
+        "组长",
+        "编辑",
+        "文案",
+        "策划",
+        "拍摄",
+        "剪辑",
+        "播放",
+        "筛选",
+        "撰稿",
+        "主持",
+        "策划/采访/拍摄"
+      ],
+      "departments": [
+        {
+          "id": "d1",
+          "name": "公众号部门",
+          "heads": [
+            "凌裕宸"
+          ],
+          "deputies": [
+            "余贤城",
+            "杨可夫",
+            "高问轩"
+          ],
+          "note": "",
+          "groups": [
+            "第一组",
+            "第二组",
+            "第三组",
+            "第四组",
+            "机动组"
+          ]
+        },
+        {
+          "id": "d2",
+          "name": "记者站部门",
+          "heads": [
+            "王一一"
+          ],
+          "deputies": [],
+          "note": "",
+          "groups": [
+            "采访组",
+            "编辑组"
+          ]
+        },
+        {
+          "id": "d3",
+          "name": "4TV及视频号部门",
+          "heads": [],
+          "deputies": [],
+          "note": "",
+          "groups": [
+            "策划组",
+            "拍摄组",
+            "后期组"
+          ]
+        },
+        {
+          "id": "d4",
+          "name": "广播站部门",
+          "heads": [
+            "丁韵可"
+          ],
+          "deputies": [],
+          "note": "",
+          "groups": [
+            "播音组",
+            "编辑组"
+          ]
+        },
+        {
+          "id": "d5",
+          "name": "板报部门",
+          "heads": [],
+          "deputies": [],
+          "note": "",
+          "groups": [
+            "设计组",
+            "绘制组"
+          ]
+        },
+        {
+          "id": "d6",
+          "name": "影像组",
+          "heads": [],
+          "deputies": [],
+          "note": "",
+          "groups": [
+            "摄影组",
+            "摄像组"
+          ]
+        }
+      ],
+      "members": [
+        {
+          "id": "m1",
+          "name": "郭仲仪",
+          "deptAssignments": [],
+          "importedScore": null,
+          "kpiRecords": [
+            {
+              "id": "r1784679262266gb",
+              "type": "activity",
+              "date": "2026-07-22",
+              "activity": "批量录入",
+              "score": 9.94,
+              "details": ""
+            }
+          ],
+          "note": ""
+        },
+        {
+          "id": "m2",
+          "name": "苏晨熙",
+          "deptAssignments": [
+            {
+              "deptId": "d1",
+              "group": "第一组",
+              "position": "编辑"
+            }
+          ],
+          "importedScore": null,
+          "kpiRecords": [
+            {
+              "id": "r178467926226662",
+              "type": "activity",
+              "date": "2026-07-22",
+              "activity": "批量录入",
+              "score": 8.04,
+              "details": ""
+            }
+          ],
+          "note": ""
+        },
+        {
+          "id": "m3",
+          "name": "余贤城",
+          "deptAssignments": [
+            {
+              "deptId": "d1",
+              "group": "第二组",
+              "position": "组长"
+            }
+          ],
+          "importedScore": null,
+          "kpiRecords": [
+            {
+              "id": "r1784679262266uw",
+              "type": "activity",
+              "date": "2026-07-22",
+              "activity": "批量录入",
+              "score": 7.7,
+              "details": ""
+            },
+            {
+              "id": "r1784679358456",
+              "type": "calc",
+              "date": "2026-07-22",
+              "activity": "未命名",
+              "score": 0.8,
+              "tasks": [
+                {
+                  "typeName": "下派任务",
+                  "desc": "",
+                  "base": 1,
+                  "part": 0.8,
+                  "score": 0.8
+                }
+              ],
+              "bonus": 0,
+              "taskTotal": 0.8
+            }
+          ],
+          "note": ""
+        },
+        {
+          "id": "m4",
+          "name": "樊涵钰",
+          "deptAssignments": [
+            {
+              "deptId": "d1",
+              "group": "第三组",
+              "position": "组长"
+            }
+          ],
+          "importedScore": null,
+          "kpiRecords": [
+            {
+              "id": "r1784679262266no",
+              "type": "activity",
+              "date": "2026-07-22",
+              "activity": "批量录入",
+              "score": 7.6,
+              "details": ""
+            },
+            {
+              "id": "r1784679394565",
+              "type": "calc",
+              "date": "2026-07-22",
+              "activity": "未命名",
+              "score": 0.9,
+              "tasks": [
+                {
+                  "typeName": "下派任务",
+                  "desc": "",
+                  "base": 1,
+                  "part": 0.9,
+                  "score": 0.9
+                }
+              ],
+              "bonus": 0,
+              "taskTotal": 0.9
+            }
+          ],
+          "note": ""
+        },
+        {
+          "id": "m5",
+          "name": "颜帅",
+          "deptAssignments": [
+            {
+              "deptId": "d1",
+              "group": "第四组",
+              "position": "组长"
+            }
+          ],
+          "importedScore": null,
+          "kpiRecords": [
+            {
+              "id": "r17846792622671z",
+              "type": "activity",
+              "date": "2026-07-22",
+              "activity": "批量录入",
+              "score": 6.54,
+              "details": ""
+            }
+          ],
+          "note": ""
+        },
+        {
+          "id": "m6",
+          "name": "王顗航",
+          "deptAssignments": [],
+          "importedScore": null,
+          "kpiRecords": [
+            {
+              "id": "r178467926226727",
+              "type": "activity",
+              "date": "2026-07-22",
+              "activity": "批量录入",
+              "score": 5.56,
+              "details": ""
+            }
+          ],
+          "note": ""
+        },
+        {
+          "id": "m7",
+          "name": "王嘉苗",
+          "deptAssignments": [
+            {
+              "deptId": "d1",
+              "group": "第二组",
+              "position": "组长"
+            }
+          ],
+          "importedScore": null,
+          "kpiRecords": [
+            {
+              "id": "r1784679262267x3",
+              "type": "activity",
+              "date": "2026-07-22",
+              "activity": "批量录入",
+              "score": 5.55,
+              "details": ""
+            }
+          ],
+          "note": ""
+        },
+        {
+          "id": "m8",
+          "name": "左昌昊",
+          "deptAssignments": [],
+          "importedScore": null,
+          "kpiRecords": [
+            {
+              "id": "r1784679262267ev",
+              "type": "activity",
+              "date": "2026-07-22",
+              "activity": "批量录入",
+              "score": 5.54,
+              "details": ""
+            }
+          ],
+          "note": ""
+        },
+        {
+          "id": "m9",
+          "name": "王昕跃",
+          "deptAssignments": [],
+          "importedScore": null,
+          "kpiRecords": [
+            {
+              "id": "r1784679262267bx",
+              "type": "activity",
+              "date": "2026-07-22",
+              "activity": "批量录入",
+              "score": 5,
+              "details": ""
+            }
+          ],
+          "note": ""
+        },
+        {
+          "id": "m10",
+          "name": "栾秉霖",
+          "deptAssignments": [
+            {
+              "deptId": "d1",
+              "group": "第四组",
+              "position": "文案"
+            }
+          ],
+          "importedScore": null,
+          "kpiRecords": [
+            {
+              "id": "r1784679262267zy",
+              "type": "activity",
+              "date": "2026-07-22",
+              "activity": "批量录入",
+              "score": 4.4,
+              "details": ""
+            }
+          ],
+          "note": ""
+        },
+        {
+          "id": "m11",
+          "name": "杨可夫",
+          "deptAssignments": [
+            {
+              "deptId": "d1",
+              "group": "第三组",
+              "position": "编辑"
+            }
+          ],
+          "importedScore": null,
+          "kpiRecords": [
+            {
+              "id": "r178467926226778",
+              "type": "activity",
+              "date": "2026-07-22",
+              "activity": "批量录入",
+              "score": 4.3,
+              "details": ""
+            }
+          ],
+          "note": ""
+        },
+        {
+          "id": "m12",
+          "name": "李鑫",
+          "deptAssignments": [
+            {
+              "deptId": "d1",
+              "group": "第二组",
+              "position": "文案"
+            }
+          ],
+          "importedScore": null,
+          "kpiRecords": [
+            {
+              "id": "r1784679262267e1",
+              "type": "activity",
+              "date": "2026-07-22",
+              "activity": "批量录入",
+              "score": 4.28,
+              "details": ""
+            }
+          ],
+          "note": ""
+        },
+        {
+          "id": "m13",
+          "name": "赵昊宸",
+          "deptAssignments": [],
+          "importedScore": null,
+          "kpiRecords": [
+            {
+              "id": "r1784679262267fy",
+              "type": "activity",
+              "date": "2026-07-22",
+              "activity": "批量录入",
+              "score": 4.2,
+              "details": ""
+            }
+          ],
+          "note": ""
+        },
+        {
+          "id": "m14",
+          "name": "郭子齐",
+          "deptAssignments": [
+            {
+              "deptId": "d1",
+              "group": "第一组",
+              "position": "文案"
+            }
+          ],
+          "importedScore": null,
+          "kpiRecords": [
+            {
+              "id": "r1784679262267w2",
+              "type": "activity",
+              "date": "2026-07-22",
+              "activity": "批量录入",
+              "score": 4.16,
+              "details": ""
+            }
+          ],
+          "note": ""
+        },
+        {
+          "id": "m15",
+          "name": "鞠朗",
+          "deptAssignments": [],
+          "importedScore": null,
+          "kpiRecords": [
+            {
+              "id": "r1784679262267r0",
+              "type": "activity",
+              "date": "2026-07-22",
+              "activity": "批量录入",
+              "score": 3.7,
+              "details": ""
+            }
+          ],
+          "note": ""
+        },
+        {
+          "id": "m16",
+          "name": "刘尚仪",
+          "deptAssignments": [],
+          "importedScore": null,
+          "kpiRecords": [
+            {
+              "id": "r1784679262267b8",
+              "type": "activity",
+              "date": "2026-07-22",
+              "activity": "批量录入",
+              "score": 3.18,
+              "details": ""
+            }
+          ],
+          "note": ""
+        },
+        {
+          "id": "m17",
+          "name": "陈思丞",
+          "deptAssignments": [
+            {
+              "deptId": "d1",
+              "group": "第四组",
+              "position": "编辑"
+            }
+          ],
+          "importedScore": null,
+          "kpiRecords": [
+            {
+              "id": "r1784679262267wy",
+              "type": "activity",
+              "date": "2026-07-22",
+              "activity": "批量录入",
+              "score": 3.1,
+              "details": ""
+            }
+          ],
+          "note": ""
+        },
+        {
+          "id": "m18",
+          "name": "王嘉越",
+          "deptAssignments": [],
+          "importedScore": null,
+          "kpiRecords": [
+            {
+              "id": "r178467926226726",
+              "type": "activity",
+              "date": "2026-07-22",
+              "activity": "批量录入",
+              "score": 3.1,
+              "details": ""
+            }
+          ],
+          "note": ""
+        },
+        {
+          "id": "m19",
+          "name": "何菲浅",
+          "deptAssignments": [],
+          "importedScore": null,
+          "kpiRecords": [
+            {
+              "id": "r1784679262267iy",
+              "type": "activity",
+              "date": "2026-07-22",
+              "activity": "批量录入",
+              "score": 2.4,
+              "details": ""
+            }
+          ],
+          "note": ""
+        },
+        {
+          "id": "m20",
+          "name": "朱悦琪",
+          "deptAssignments": [],
+          "importedScore": null,
+          "kpiRecords": [
+            {
+              "id": "r1784679262267z6",
+              "type": "activity",
+              "date": "2026-07-22",
+              "activity": "批量录入",
+              "score": 2.4,
+              "details": ""
+            }
+          ],
+          "note": ""
+        },
+        {
+          "id": "m21",
+          "name": "王紫晗",
+          "deptAssignments": [],
+          "importedScore": null,
+          "kpiRecords": [
+            {
+              "id": "r17846792622673j",
+              "type": "activity",
+              "date": "2026-07-22",
+              "activity": "批量录入",
+              "score": 2.21,
+              "details": ""
+            }
+          ],
+          "note": ""
+        },
+        {
+          "id": "m22",
+          "name": "赖杳雪",
+          "deptAssignments": [
+            {
+              "deptId": "d1",
+              "group": "第二组",
+              "position": "文案"
+            }
+          ],
+          "importedScore": null,
+          "kpiRecords": [
+            {
+              "id": "r1784679262267zs",
+              "type": "activity",
+              "date": "2026-07-22",
+              "activity": "批量录入",
+              "score": 2.18,
+              "details": ""
+            }
+          ],
+          "note": ""
+        },
+        {
+          "id": "m23",
+          "name": "王晨跃",
+          "deptAssignments": [],
+          "importedScore": null,
+          "kpiRecords": [
+            {
+              "id": "r1784679262267fz",
+              "type": "activity",
+              "date": "2026-07-22",
+              "activity": "批量录入",
+              "score": 2.1,
+              "details": ""
+            }
+          ],
+          "note": ""
+        },
+        {
+          "id": "m24",
+          "name": "高问轩",
+          "deptAssignments": [
+            {
+              "deptId": "d1",
+              "group": "第一组",
+              "position": "组长"
+            }
+          ],
+          "importedScore": null,
+          "kpiRecords": [
+            {
+              "id": "r17846792622674j",
+              "type": "activity",
+              "date": "2026-07-22",
+              "activity": "批量录入",
+              "score": 2.06,
+              "details": ""
+            }
+          ],
+          "note": ""
+        },
+        {
+          "id": "m25",
+          "name": "赵峄淳",
+          "deptAssignments": [
+            {
+              "deptId": "d1",
+              "group": "第四组",
+              "position": "文案"
+            }
+          ],
+          "importedScore": null,
+          "kpiRecords": [
+            {
+              "id": "r1784679262267gd",
+              "type": "activity",
+              "date": "2026-07-22",
+              "activity": "批量录入",
+              "score": 1.97,
+              "details": ""
+            }
+          ],
+          "note": ""
+        },
+        {
+          "id": "m26",
+          "name": "姜圳洋",
+          "deptAssignments": [],
+          "importedScore": null,
+          "kpiRecords": [
+            {
+              "id": "r1784679262267gd",
+              "type": "activity",
+              "date": "2026-07-22",
+              "activity": "批量录入",
+              "score": 1.75,
+              "details": ""
+            }
+          ],
+          "note": ""
+        },
+        {
+          "id": "m27",
+          "name": "吴岳泽",
+          "deptAssignments": [],
+          "importedScore": null,
+          "kpiRecords": [
+            {
+              "id": "r1784679262267b9",
+              "type": "activity",
+              "date": "2026-07-22",
+              "activity": "批量录入",
+              "score": 1.66,
+              "details": ""
+            }
+          ],
+          "note": ""
+        },
+        {
+          "id": "m28",
+          "name": "李泽博",
+          "deptAssignments": [],
+          "importedScore": null,
+          "kpiRecords": [
+            {
+              "id": "r1784679262267u0",
+              "type": "activity",
+              "date": "2026-07-22",
+              "activity": "批量录入",
+              "score": 1.56,
+              "details": ""
+            }
+          ],
+          "note": ""
+        },
+        {
+          "id": "m29",
+          "name": "张雪祺",
+          "deptAssignments": [],
+          "importedScore": null,
+          "kpiRecords": [
+            {
+              "id": "r1784679262267p8",
+              "type": "activity",
+              "date": "2026-07-22",
+              "activity": "批量录入",
+              "score": 1.5,
+              "details": ""
+            }
+          ],
+          "note": ""
+        },
+        {
+          "id": "m30",
+          "name": "王麓宁",
+          "deptAssignments": [],
+          "importedScore": null,
+          "kpiRecords": [
+            {
+              "id": "r1784679262267ny",
+              "type": "activity",
+              "date": "2026-07-22",
+              "activity": "批量录入",
+              "score": 1.5,
+              "details": ""
+            }
+          ],
+          "note": ""
+        },
+        {
+          "id": "m31",
+          "name": "郑逸旻",
+          "deptAssignments": [],
+          "importedScore": null,
+          "kpiRecords": [
+            {
+              "id": "r1784679262267uh",
+              "type": "activity",
+              "date": "2026-07-22",
+              "activity": "批量录入",
+              "score": 1.4,
+              "details": ""
+            }
+          ],
+          "note": ""
+        },
+        {
+          "id": "m32",
+          "name": "崔雯硕",
+          "deptAssignments": [
+            {
+              "deptId": "d1",
+              "group": "第二组",
+              "position": "文案"
+            }
+          ],
+          "importedScore": null,
+          "kpiRecords": [
+            {
+              "id": "r17846792622675p",
+              "type": "activity",
+              "date": "2026-07-22",
+              "activity": "批量录入",
+              "score": 1.3,
+              "details": ""
+            }
+          ],
+          "note": ""
+        },
+        {
+          "id": "m33",
+          "name": "蔡志超",
+          "deptAssignments": [],
+          "importedScore": null,
+          "kpiRecords": [
+            {
+              "id": "r1784679262267v8",
+              "type": "activity",
+              "date": "2026-07-22",
+              "activity": "批量录入",
+              "score": 1.3,
+              "details": ""
+            }
+          ],
+          "note": ""
+        },
+        {
+          "id": "m34",
+          "name": "鲁静远",
+          "deptAssignments": [],
+          "importedScore": null,
+          "kpiRecords": [
+            {
+              "id": "r1784679262267og",
+              "type": "activity",
+              "date": "2026-07-22",
+              "activity": "批量录入",
+              "score": 1.2,
+              "details": ""
+            }
+          ],
+          "note": ""
+        },
+        {
+          "id": "m35",
+          "name": "程绍轩",
+          "deptAssignments": [],
+          "importedScore": null,
+          "kpiRecords": [
+            {
+              "id": "r1784679262267ld",
+              "type": "activity",
+              "date": "2026-07-22",
+              "activity": "批量录入",
+              "score": 1.1,
+              "details": ""
+            }
+          ],
+          "note": ""
+        },
+        {
+          "id": "m36",
+          "name": "姜雨杉",
+          "deptAssignments": [],
+          "importedScore": null,
+          "kpiRecords": [
+            {
+              "id": "r1784679262267sn",
+              "type": "activity",
+              "date": "2026-07-22",
+              "activity": "批量录入",
+              "score": 1.08,
+              "details": ""
+            }
+          ],
+          "note": ""
+        },
+        {
+          "id": "m37",
+          "name": "胡光禄",
+          "deptAssignments": [],
+          "importedScore": null,
+          "kpiRecords": [
+            {
+              "id": "r1784679262267wf",
+              "type": "activity",
+              "date": "2026-07-22",
+              "activity": "批量录入",
+              "score": 1,
+              "details": ""
+            }
+          ],
+          "note": ""
+        },
+        {
+          "id": "m38",
+          "name": "黄天琳",
+          "deptAssignments": [],
+          "importedScore": null,
+          "kpiRecords": [
+            {
+              "id": "r1784679262267go",
+              "type": "activity",
+              "date": "2026-07-22",
+              "activity": "批量录入",
+              "score": 1,
+              "details": ""
+            }
+          ],
+          "note": ""
+        },
+        {
+          "id": "m39",
+          "name": "解朝暾",
+          "deptAssignments": [],
+          "importedScore": null,
+          "kpiRecords": [
+            {
+              "id": "r1784679262267t0",
+              "type": "activity",
+              "date": "2026-07-22",
+              "activity": "批量录入",
+              "score": 1,
+              "details": ""
+            }
+          ],
+          "note": ""
+        },
+        {
+          "id": "m40",
+          "name": "王浩然",
+          "deptAssignments": [],
+          "importedScore": null,
+          "kpiRecords": [
+            {
+              "id": "r17846792622677m",
+              "type": "activity",
+              "date": "2026-07-22",
+              "activity": "批量录入",
+              "score": 0.96,
+              "details": ""
+            }
+          ],
+          "note": ""
+        },
+        {
+          "id": "m41",
+          "name": "靳子曦",
+          "deptAssignments": [],
+          "importedScore": null,
+          "kpiRecords": [
+            {
+              "id": "r17846792622673c",
+              "type": "activity",
+              "date": "2026-07-22",
+              "activity": "批量录入",
+              "score": 0.96,
+              "details": ""
+            }
+          ],
+          "note": ""
+        },
+        {
+          "id": "m42",
+          "name": "孙欣彤",
+          "deptAssignments": [
+            {
+              "deptId": "d1",
+              "group": "第一组",
+              "position": "文案"
+            }
+          ],
+          "importedScore": null,
+          "kpiRecords": [
+            {
+              "id": "r1784679262267rn",
+              "type": "activity",
+              "date": "2026-07-22",
+              "activity": "批量录入",
+              "score": 0.91,
+              "details": ""
+            }
+          ],
+          "note": ""
+        },
+        {
+          "id": "m43",
+          "name": "闫淇",
+          "deptAssignments": [],
+          "importedScore": null,
+          "kpiRecords": [
+            {
+              "id": "r178467926226752",
+              "type": "activity",
+              "date": "2026-07-22",
+              "activity": "批量录入",
+              "score": 0.84,
+              "details": ""
+            }
+          ],
+          "note": ""
+        },
+        {
+          "id": "m44",
+          "name": "王梓墨",
+          "deptAssignments": [
+            {
+              "deptId": "d1",
+              "group": "第三组",
+              "position": "文案"
+            }
+          ],
+          "importedScore": null,
+          "kpiRecords": [
+            {
+              "id": "r1784679262267jf",
+              "type": "activity",
+              "date": "2026-07-22",
+              "activity": "批量录入",
+              "score": 0.8,
+              "details": ""
+            }
+          ],
+          "note": ""
+        },
+        {
+          "id": "m45",
+          "name": "李沐曦",
+          "deptAssignments": [],
+          "importedScore": null,
+          "kpiRecords": [
+            {
+              "id": "r1784679262267ka",
+              "type": "activity",
+              "date": "2026-07-22",
+              "activity": "批量录入",
+              "score": 0.7,
+              "details": ""
+            }
+          ],
+          "note": ""
+        },
+        {
+          "id": "m46",
+          "name": "宋未然",
+          "deptAssignments": [],
+          "importedScore": null,
+          "kpiRecords": [
+            {
+              "id": "r1784679262267oz",
+              "type": "activity",
+              "date": "2026-07-22",
+              "activity": "批量录入",
+              "score": 0.7,
+              "details": ""
+            }
+          ],
+          "note": ""
+        },
+        {
+          "id": "m47",
+          "name": "尹云策",
+          "deptAssignments": [],
+          "importedScore": null,
+          "kpiRecords": [
+            {
+              "id": "r1784679262267uu",
+              "type": "activity",
+              "date": "2026-07-22",
+              "activity": "批量录入",
+              "score": 0.6,
+              "details": ""
+            }
+          ],
+          "note": ""
+        },
+        {
+          "id": "m48",
+          "name": "胡熙琨",
+          "deptAssignments": [],
+          "importedScore": null,
+          "kpiRecords": [
+            {
+              "id": "r1784679262267g2",
+              "type": "activity",
+              "date": "2026-07-22",
+              "activity": "批量录入",
+              "score": 0.6,
+              "details": ""
+            }
+          ],
+          "note": ""
+        },
+        {
+          "id": "m49",
+          "name": "李卓彬",
+          "deptAssignments": [],
+          "importedScore": null,
+          "kpiRecords": [
+            {
+              "id": "r1784679262267e2",
+              "type": "activity",
+              "date": "2026-07-22",
+              "activity": "批量录入",
+              "score": 0.6,
+              "details": ""
+            }
+          ],
+          "note": ""
+        },
+        {
+          "id": "m50",
+          "name": "王梓萌",
+          "deptAssignments": [
+            {
+              "deptId": "d1",
+              "group": "第一组",
+              "position": "文案"
+            }
+          ],
+          "importedScore": null,
+          "kpiRecords": [
+            {
+              "id": "r1784679262267oq",
+              "type": "activity",
+              "date": "2026-07-22",
+              "activity": "批量录入",
+              "score": 0.6,
+              "details": ""
+            }
+          ],
+          "note": ""
+        },
+        {
+          "id": "m51",
+          "name": "艾玙非",
+          "deptAssignments": [],
+          "importedScore": null,
+          "kpiRecords": [
+            {
+              "id": "r1784679262267sf",
+              "type": "activity",
+              "date": "2026-07-22",
+              "activity": "批量录入",
+              "score": 0.6,
+              "details": ""
+            }
+          ],
+          "note": ""
+        },
+        {
+          "id": "m52",
+          "name": "杨子潆",
+          "deptAssignments": [],
+          "importedScore": null,
+          "kpiRecords": [
+            {
+              "id": "r1784679262267xt",
+              "type": "activity",
+              "date": "2026-07-22",
+              "activity": "批量录入",
+              "score": 0.6,
+              "details": ""
+            }
+          ],
+          "note": ""
+        },
+        {
+          "id": "m53",
+          "name": "孙皓琦",
+          "deptAssignments": [],
+          "importedScore": null,
+          "kpiRecords": [
+            {
+              "id": "r1784679262267m3",
+              "type": "activity",
+              "date": "2026-07-22",
+              "activity": "批量录入",
+              "score": 0.5,
+              "details": ""
+            }
+          ],
+          "note": ""
+        },
+        {
+          "id": "m54",
+          "name": "汪妍君",
+          "deptAssignments": [
+            {
+              "deptId": "d1",
+              "group": "第三组",
+              "position": "文案"
+            }
+          ],
+          "importedScore": null,
+          "kpiRecords": [
+            {
+              "id": "r1784679262267yc",
+              "type": "activity",
+              "date": "2026-07-22",
+              "activity": "批量录入",
+              "score": 0.5,
+              "details": ""
+            }
+          ],
+          "note": ""
+        },
+        {
+          "id": "m55",
+          "name": "刘芊孜",
+          "deptAssignments": [],
+          "importedScore": null,
+          "kpiRecords": [
+            {
+              "id": "r1784679262267a2",
+              "type": "activity",
+              "date": "2026-07-22",
+              "activity": "批量录入",
+              "score": 0.48,
+              "details": ""
+            }
+          ],
+          "note": ""
+        },
+        {
+          "id": "m56",
+          "name": "高乐涵",
+          "deptAssignments": [],
+          "importedScore": null,
+          "kpiRecords": [
+            {
+              "id": "r1784679262267pk",
+              "type": "activity",
+              "date": "2026-07-22",
+              "activity": "批量录入",
+              "score": 0.48,
+              "details": ""
+            }
+          ],
+          "note": ""
+        },
+        {
+          "id": "m57",
+          "name": "张济川",
+          "deptAssignments": [],
+          "importedScore": null,
+          "kpiRecords": [
+            {
+              "id": "r1784679262267d2",
+              "type": "activity",
+              "date": "2026-07-22",
+              "activity": "批量录入",
+              "score": 0.4,
+              "details": ""
+            }
+          ],
+          "note": ""
+        },
+        {
+          "id": "m58",
+          "name": "叶冠辰",
+          "deptAssignments": [],
+          "importedScore": null,
+          "kpiRecords": [
+            {
+              "id": "r178467926226710",
+              "type": "activity",
+              "date": "2026-07-22",
+              "activity": "批量录入",
+              "score": 0.4,
+              "details": ""
+            }
+          ],
+          "note": ""
+        },
+        {
+          "id": "m59",
+          "name": "冯煜淇",
+          "deptAssignments": [],
+          "importedScore": null,
+          "kpiRecords": [
+            {
+              "id": "r17846792622679v",
+              "type": "activity",
+              "date": "2026-07-22",
+              "activity": "批量录入",
+              "score": 0.4,
+              "details": ""
+            }
+          ],
+          "note": ""
+        },
+        {
+          "id": "m60",
+          "name": "冯梓瑄",
+          "deptAssignments": [],
+          "importedScore": null,
+          "kpiRecords": [
+            {
+              "id": "r1784679262267p2",
+              "type": "activity",
+              "date": "2026-07-22",
+              "activity": "批量录入",
+              "score": 0.3,
+              "details": ""
+            }
+          ],
+          "note": ""
+        },
+        {
+          "id": "m61",
+          "name": "苗竣诚",
+          "deptAssignments": [],
+          "importedScore": null,
+          "kpiRecords": [
+            {
+              "id": "r1784679262267aa",
+              "type": "activity",
+              "date": "2026-07-22",
+              "activity": "批量录入",
+              "score": 0.3,
+              "details": ""
+            }
+          ],
+          "note": ""
+        },
+        {
+          "id": "m62",
+          "name": "张筠博",
+          "deptAssignments": [],
+          "importedScore": null,
+          "kpiRecords": [
+            {
+              "id": "r1784679262267rc",
+              "type": "activity",
+              "date": "2026-07-22",
+              "activity": "批量录入",
+              "score": 0.2,
+              "details": ""
+            }
+          ],
+          "note": ""
+        },
+        {
+          "id": "m63",
+          "name": "刘伯洋",
+          "deptAssignments": [],
+          "importedScore": null,
+          "kpiRecords": [
+            {
+              "id": "r17846792622679i",
+              "type": "activity",
+              "date": "2026-07-22",
+              "activity": "批量录入",
+              "score": 0.2,
+              "details": ""
+            }
+          ],
+          "note": ""
+        },
+        {
+          "id": "m64",
+          "name": "张蕊瑶",
+          "deptAssignments": [],
+          "importedScore": null,
+          "kpiRecords": [
+            {
+              "id": "r1784679262267y9",
+              "type": "activity",
+              "date": "2026-07-22",
+              "activity": "批量录入",
+              "score": 0.1,
+              "details": ""
+            }
+          ],
+          "note": ""
+        },
+        {
+          "id": "m65",
+          "name": "段子成",
+          "deptAssignments": [],
+          "importedScore": null,
+          "kpiRecords": [
+            {
+              "id": "r17846792622672y",
+              "type": "activity",
+              "date": "2026-07-22",
+              "activity": "批量录入",
+              "score": 0.1,
+              "details": ""
+            }
+          ],
+          "note": ""
+        },
+        {
+          "id": "m66",
+          "name": "凌裕宸",
+          "deptAssignments": [
+            {
+              "deptId": "d1",
+              "group": "第四组",
+              "position": "文案"
+            }
+          ],
+          "importedScore": null,
+          "kpiRecords": [],
+          "note": ""
+        },
+        {
+          "id": "m67",
+          "name": "王一一",
+          "deptAssignments": [
+            {
+              "deptId": "d2",
+              "group": "",
+              "position": "组长"
+            }
+          ],
+          "importedScore": null,
+          "kpiRecords": [],
+          "note": ""
+        },
+        {
+          "id": "m68",
+          "name": "丁韵可",
+          "deptAssignments": [
+            {
+              "deptId": "d4",
+              "group": "",
+              "position": "组长"
+            }
+          ],
+          "importedScore": null,
+          "kpiRecords": [],
+          "note": ""
+        }
+      ],
+      "nextId": 69
+    }
+  }
+}
